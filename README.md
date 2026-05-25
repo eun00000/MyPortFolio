@@ -10,7 +10,7 @@
 # <a id="About-me"></a>📍 About Me
 2000.02.22 <br><br>
 😄 Email : eunyoung000222@naver.com<br>
-😄 NotionPortfolio [ 상세 프로젝트 및 기술스택 확인 ] : [https://www.notion.so/2=0](https://www.notion.so/36b2741b9888803695ebcdc3daa2c4f5?source=copy_link) <br>
+😄 NotionPortfolio (상세 프로젝트 및 기술스택 확인): [https://www.notion.so/2=0](https://www.notion.so/36b2741b9888803695ebcdc3daa2c4f5?source=copy_link) <br>
 😄 Github : https://www.github.com/eun00000 <br><br>
 - 소통능력을 갖춘 예비 개발자
 - 문재해결을 위해 나아가는 예비 개발자
